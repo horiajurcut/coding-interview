@@ -4,29 +4,34 @@ import java.util.Arrays;
 
 public class BinarySearch {
 
-  private static int search(int x, int s, int e, int[] v) {
-    System.out.println(String.format("x = %d, s = %d, e = %d", x, s, e));
+  public static int search(int[] array, int x) {
+    return search0(array, x, 0, array.length - 1);
+  }
 
-    if (s > e) {
+  private static int search0(int[] array, int x, int low, int high) {
+    if (high < low) {
       return -1;
     }
 
-    if (x == v[s + ((e - s) / 2)]) {
-      return (s + ((e - s) / 2));
-    } else if (x < v[s + ((e - s) / 2)]) {
-      return search(x, s, e / 2 - 1, v);
-    } else if (x > v[s + ((e - s) / 2)]) {
-      return search(x, s + ((e - s) / 2) + 1, e, v);
-    }
+    int mid = (low + high) / 2;
 
-    // Can't find element
-    return -1;
+    if (x == array[mid]) {
+      return mid;
+    } else if (x < array[mid]) {
+      return search0(array, x, low, mid - 1);
+    } else {
+      return search0(array, x, mid + 1, high);
+    }
   }
 
   public static void main(String args[]) {
-    int[] test1 = { -4, -3, 1, 2, 4, 6, 8, 9, 11, 12 };
-    int needle = 43;
-    System.out.println(String.format("Element %d is at position %d in array %s",
-        needle, search(needle, 0, test1.length - 1, test1), Arrays.toString(test1)));
+    int[] b = { 33, 2, 0, 5, -9, 7, 333, 8 };
+    int[] a = { 4, 8, 13, 0, 7, 22, 54, 33 };
+
+    Arrays.sort(b);
+
+    for (int x : a) {
+      System.out.println(String.format("Element %d is at position %d", x, search(b, x)));
+    }
   }
 }

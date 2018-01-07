@@ -351,8 +351,101 @@ public class Exercises {
     return count;
   }
 
+  /**
+   * The algorithm is doing a binary search to find the sqrt
+   * Runtime is O(log N)
+   */
   static int sqrtHelper(int n, int min, int max) {
+    System.out.println(String.format("n = %d, min = %d, max = %d", n, min, max));
+
     if (max < min) return -1; // no square root
+
+    int guess = (min + max) / 2;
+    System.out.println(String.format("guess = %d", guess));
+    if (guess * guess == n) {
+      return guess;
+    } else if (guess * guess < n) {
+      return sqrtHelper(n, guess + 1, max);
+    } else {
+      return sqrtHelper(n, min, guess - 1);
+    }
+  }
+
+  /**
+   * Runtime is O(sqrt(n))
+   */
+  static int sqrt(int n) {
+    for (int guess = 1; guess * guess <= n; guess++) {
+      if (guess * guess == n) {
+        return guess;
+      }
+    }
+    return -1;
+  }
+
+  /**
+   * If a binary search tree is not balanced, it could be a straight list downwards of depth n
+   *
+   * O(N) -> worst case
+   *
+   * Search an element in a binary tree (not a binary search tree)
+   *
+   * O(N) -> worst case
+   */
+  static void remember() {
+    System.out.println("Don't forget!");
+  }
+
+  /**
+   * 1 + 2 + 3 + .. + N -> N(N+1) => O(N^2 + N) -> drop non-dominant term -> O(N^2)
+   */
+  static int[] copyArray(int[] array) {
+    int[] copy = new int[0];
+    for (int value : array) {
+      copy = appendToNew(copy, value);
+    }
+    return copy;
+  }
+
+  static int[] appendToNew(int[] array, int value) {
+    int[]  bigger = new int[array.length + 1];
+    for (int i = 0; i < array.length; i++) {
+      bigger[i] = array[i];
+    }
+
+    bigger[bigger.length - 1] = value;
+    return bigger;
+  }
+
+  /**
+   * Runtime is O(log N) -> base is 10
+   */
+  static int sumDigits(int n) {
+    int sum = 0;
+    while (n > 0) {
+      sum += n % 10;
+      n /= 10;
+    }
+    return sum;
+  }
+
+  /**
+   * Binary search takes O(log b)
+   * Sorting b takes O(b * log b)
+   * The for loop takes O(a * log b)
+   *
+   * Runtime takes O(a * log b + b * log b)
+   */
+  static int intersection(int[] a, int[] b) {
+    Arrays.sort(b);
+    int intersect = 0;
+
+    for (int x : a) {
+      if (BinarySearch.search(b, x) >= 0) {
+        intersect++;
+      }
+    }
+    return intersect;
   }
 
   public static void main(String[] args) {
@@ -385,6 +478,12 @@ public class Exercises {
     // allFib(8);
     // allFibMemo(8);
     // powersOf2(4);
-    System.out.println(String.format("%d div %d = %d", 6, 3, div(6, 3)));
+    // System.out.println(String.format("%d div %d = %d", 6, 3, div(6, 3)));
+    // System.out.println(String.format("sqrt(%d) = %d", 100, sqrtHelper(100, 1, 100)));
+
+    int[] a = { 4, 8, 13, 0, 7, 22, 54, 33 };
+    int[] b = { 33, 2, 0, 5, -9, 7, 333, 8 };
+    System.out.println(String.format("A = %s and B = %s have %d elements in common",
+        Arrays.toString(a), Arrays.toString(b), intersection(a, b)));
   }
 }
