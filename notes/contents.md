@@ -4,6 +4,10 @@
 
 PDFs, articles, academic references related to data structures and algorithms 
 
+### The Interview Process
+
+* [Summary](TheInterviewProcess.pdf)
+
 ### Big O
 
 * [Summary](BigO.pdf)

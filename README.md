@@ -5,10 +5,10 @@ Cracking the coding interview
 
 This section offers an overview on questions are selected and how you will be evaluated. What happens when you get a question wrong? When should you start preparing, and how? What language should you use? All these questions and more are answered.
 
-- [ ] Why?
-- [ ] How Questions are Selected
-- [ ] It's All Relative
-- [ ] Frequently Asked Questions
+- [X] Why?
+- [X] How Questions are Selected
+- [X] It's All Relative
+- [X] Frequently Asked Questions
 
 ## Behind the Scenes
 
