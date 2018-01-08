@@ -14,12 +14,12 @@ This section offers an overview on questions are selected and how you will be ev
 
 Learn what happens behind the scenes during your interview, how decisions really get made, who you interview with, and what they ask you. Companies covered include Google, Amazon, Palantir, Microsoft, Apple and Facebook.
 
-- [ ] The Microsoft Interview
-- [ ] The Amazon Interview
-- [ ] The Google Interview
-- [ ] The Apple Interview
-- [ ] The Facebook Interview
-- [ ] The Palantir Interview
+- [X] The Microsoft Interview
+- [X] The Amazon Interview
+- [X] The Google Interview
+- [X] The Apple Interview
+- [X] The Facebook Interview
+- [X] The Palantir Interview
 
 ## Special Situations
 
