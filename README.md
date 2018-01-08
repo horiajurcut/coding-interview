@@ -127,3 +127,4 @@ This section forms the bulk of the book. Each section opens with a discussion of
   * [Dynamic Arrays](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays)
   * [Jagged Arrays Introduction](https://www.youtube.com/watch?v=1jtrQqYpt7g)
   * [Jagged Arrays Description](https://www.lynda.com/Software-Development-tutorials/Jagged-arrays/149042/177106-4.html)
+  * [Resizable Arrays](https://www.lynda.com/Software-Development-tutorials/Resizable-arrays/149042/177108-4.html)
