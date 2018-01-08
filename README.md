@@ -120,7 +120,7 @@ This section forms the bulk of the book. Each section opens with a discussion of
 
 * Big O
   * [Introduction](https://www.youtube.com/watch?v=v4cd1O4zkGw&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt&index=7)
-  * [Basic Arrays](https://www.lynda.com/Software-Development-tutorials/Basic-arrays/149042/177104-4.html)
-  * [Multi-Dimensional Arrays](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Multidimensional-arrays/149042/177105-4.html)
 * Arrays
   * [Introduction](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
+  * [Basic Arrays](https://www.lynda.com/Software-Development-tutorials/Basic-arrays/149042/177104-4.html)
+  * [Multi-Dimensional Arrays](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Multidimensional-arrays/149042/177105-4.html)
