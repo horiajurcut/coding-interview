@@ -54,16 +54,16 @@ Although most of a software engineering interview will be technical, behavioral 
 
 This is a critical topic for an interview. In order to optimize your solution, you need to be able to discuss the efficiency of your algorithm.
 
-- [ ] An Analogy
-- [ ] Time Complexity
-- [ ] Space Complexity
-- [ ] Drop the Constants
-- [ ] Drop the Non-Dominant Terms
-- [ ] Multi-Part Algorithms: Add vs. Multiply
-- [ ] Amortized Time
-- [ ] Log N Runtimes
-- [ ] Recursive Runtimes
-- [ ] Examples and Exercises
+- [X] An Analogy
+- [X] Time Complexity
+- [X] Space Complexity
+- [X] Drop the Constants
+- [X] Drop the Non-Dominant Terms
+- [X] Multi-Part Algorithms: Add vs. Multiply
+- [X] Amortized Time
+- [X] Log N Runtimes
+- [X] Recursive Runtimes
+- [X] Examples and Exercises
 
 ## Technical Questions (+ 5 Algorithm Approaches)
 
