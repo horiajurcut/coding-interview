@@ -131,3 +131,4 @@ This section forms the bulk of the book. Each section opens with a discussion of
   * [Jagged Arrays Description](https://www.lynda.com/Software-Development-tutorials/Jagged-arrays/149042/177106-4.html)
   * [Resizable Arrays](https://www.lynda.com/Software-Development-tutorials/Resizable-arrays/149042/177108-4.html)
   * [Sorting Arrays](https://www.lynda.com/Software-Development-tutorials/Sorting-arrays/149042/177109-4.html)
+  * [Sorting Custom Arrays](https://www.lynda.com/Software-Development-tutorials/Sorting-arrays-custom-objects/149042/177110-4.html)
