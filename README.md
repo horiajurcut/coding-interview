@@ -114,7 +114,7 @@ This section forms the bulk of the book. Each section opens with a discussion of
 - [ ] Assorted Moderate Problems
 - [ ] Assorted Hard Problems
 
-#Video Content
+# Video Content
 
 ## Data Structures
 
