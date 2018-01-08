@@ -25,13 +25,13 @@ Learn what happens behind the scenes during your interview, how decisions really
 
 This section explains the process for experience candidates, Program Managers, Dev Managers, Testers / SDETs, and more. Learn what your interviewers are looking for and how much code you need to know.
 
-- [ ] Experienced Candidates
-- [ ] Testers and SDETs
-- [ ] Program and Product Managers
-- [ ] Dev Leads and Managers
-- [ ] Start-Ups
-- [ ] Acquisitions and Acquihires
-- [ ] For Interviewers
+- [X] Experienced Candidates
+- [X] Testers and SDETs
+- [X] Program and Product Managers
+- [X] Dev Leads and Managers
+- [X] Start-Ups
+- [X] Acquisitions and Acquihires
+- [X] For Interviewers
 
 ## Before the Interview
 

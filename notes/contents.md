@@ -12,6 +12,10 @@ PDFs, articles, academic references related to data structures and algorithms
 
 * [Summary](BehindTheScenes.pdf)
 
+### Special Situations
+
+* [Summary](SpecialSituations.pdf)
+
 ### Big O
 
 * [Summary](BigO.pdf)
