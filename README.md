@@ -69,10 +69,10 @@ This is a critical topic for an interview. In order to optimize your solution, y
 
 This section covers how to prepare for technical questions (without wasting your time) and teaches actionable ways to solve the trickiest algorithm problems. It also teaches you what exactly "good coding" is when it comes to an interview.
 
-- [ ] How to Prepare	
-- [ ] What You Need To Know
-- [ ] Walking Through a Problem
-- [ ] Optimize & Solve Technique #1: Look for BUD
+- [X] How to Prepare	
+- [X] What You Need To Know
+- [X] Walking Through a Problem
+- [X] Optimize & Solve Technique #1: Look for BUD
 - [ ] Optimize & Solve Technique #2: DIY (Do It Yourself)
 - [ ] Optimize & Solve Technique #3: Simplify and Generalize
 - [ ] Optimize & Solve Technique #4: Base Case and Build

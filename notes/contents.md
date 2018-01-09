@@ -27,3 +27,7 @@ PDFs, articles, academic references related to data structures and algorithms
 ### Big O
 
 * [Summary](BigO.pdf)
+
+### Technical Questions
+
+* [Summary](TechnicalQuestions.pdf)
