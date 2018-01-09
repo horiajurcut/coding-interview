@@ -28,3 +28,5 @@
   * [Basic List Implementations](https://www.lynda.com/Software-Development-tutorials/Understanding-basic-list-implementations/149042/177116-4.html)
   * [Singly and Doubly Linked Lists](https://www.lynda.com/Software-Development-tutorials/Using-singly-doubly-linked-lists/149042/177117-4.html)
   * [List Support Across Languages](https://www.lynda.com/Software-Development-tutorials/List-support-across-languages/149042/177118-4.html)
+  * [Linked Lists vs Arrays](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
+  * [Lists vs Arrays IRL](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
