@@ -21,3 +21,6 @@
   * [Searching Arrays](https://www.lynda.com/Software-Development-tutorials/Searching-arrays/149042/177111-4.html)
   * [Using Built-In Search Behavior](https://www.lynda.com/Software-Development-tutorials/Using-built-search-behavior/149042/177112-4.html)
   * [Binary Searching](https://www.lynda.com/Software-Development-tutorials/Using-binary-searching/149042/177113-4.html)
+  * [Binary Search - HackerRank](https://www.youtube.com/watch?v=P3YID7liBug)
+* Lists
+  * [Linked Lists - HackerRank](https://www.youtube.com/watch?v=njTh_OwMljA)
