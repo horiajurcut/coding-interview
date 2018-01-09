@@ -24,3 +24,7 @@
   * [Binary Search - HackerRank](https://www.youtube.com/watch?v=P3YID7liBug)
 * Lists
   * [Linked Lists - HackerRank](https://www.youtube.com/watch?v=njTh_OwMljA)
+  * [Introduction to Lists](https://www.lynda.com/Software-Development-tutorials/Introduction-lists/149042/177115-4.html)
+  * [Basic List Implementations](https://www.lynda.com/Software-Development-tutorials/Understanding-basic-list-implementations/149042/177116-4.html)
+  * [Singly and Doubly Linked Lists](https://www.lynda.com/Software-Development-tutorials/Using-singly-doubly-linked-lists/149042/177117-4.html)
+  * [List Support Across Languages](https://www.lynda.com/Software-Development-tutorials/List-support-across-languages/149042/177118-4.html)
