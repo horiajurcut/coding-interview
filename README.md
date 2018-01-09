@@ -37,18 +37,18 @@ This section explains the process for experience candidates, Program Managers, D
 
 In order to ace the interview, you first need to get an interview. This section describes what a software engineer's resume should look like and what you should be doing well before your interview.
 
-- [ ] Getting the Right Experience
-- [ ] Building a Network
-- [ ] Preparation Map
+- [X] Getting the Right Experience
+- [X] Building a Network
+- [X] Preparation Map
 
 ## Behavioral Preparation
 
 Although most of a software engineering interview will be technical, behavioral questions matter too. This section covers how to prepare for behavioral questions and how to give strong, structured responses.
 
-- [ ] Interview Preparation Grid
-- [ ] Know Your Technical Projects
-- [ ] Responding to Behavioral Projects
-- [ ] So, tell me about yourself
+- [X] Interview Preparation Grid
+- [X] Know Your Technical Projects
+- [X] Responding to Behavioral Projects
+- [X] So, tell me about yourself
 
 ## Big O
 

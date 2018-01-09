@@ -16,6 +16,14 @@ PDFs, articles, academic references related to data structures and algorithms
 
 * [Summary](SpecialSituations.pdf)
 
+### Before The Interview
+
+* [Summary](BeforeTheInterview.pdf)
+
+### Behavioral Questions
+
+* [Summary](BehavioralQuestions.pdf)
+
 ### Big O
 
 * [Summary](BigO.pdf)
