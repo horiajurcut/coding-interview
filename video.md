@@ -30,3 +30,9 @@
   * [List Support Across Languages](https://www.lynda.com/Software-Development-tutorials/List-support-across-languages/149042/177118-4.html)
   * [Linked Lists vs Arrays](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
   * [Lists vs Arrays IRL](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
+* Stacks
+  * [Introduction](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
+  * [Stacks LIFO](https://www.lynda.com/Software-Development-tutorials/Using-stacks-last-first-out/149042/177120-4.html)
+  * [Abstract Data Types - ADT](https://www.lynda.com/Software-Development-tutorials/Understanding-abstract-data-types-ADTs/149042/177121-4.html)
+* Queues
+  * [Queues FIFO](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html)
