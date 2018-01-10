@@ -37,3 +37,4 @@
 * Queues
   * [Queues FIFO](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html)
   * [Priority Queues and Deques](https://www.lynda.com/Software-Development-tutorials/Priority-queues-dequeues/149042/177123-4.html)
+  * [Queue Implementations](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
