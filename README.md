@@ -73,24 +73,24 @@ This section covers how to prepare for technical questions (without wasting your
 - [X] What You Need To Know
 - [X] Walking Through a Problem
 - [X] Optimize & Solve Technique #1: Look for BUD
-- [ ] Optimize & Solve Technique #2: DIY (Do It Yourself)
-- [ ] Optimize & Solve Technique #3: Simplify and Generalize
-- [ ] Optimize & Solve Technique #4: Base Case and Build
-- [ ] Optimize & Solve Technique #5: Data Structure Brainstorm
-- [ ] Best Conceivable Runtime (BCR)
-- [ ] Handling Incorrect Answers
-- [ ] When You’ve Heard a Question Before
-- [ ] The “Perfect” Language for Interviews
-- [ ] What Good Coding Looks Like
-- [ ] Don’t Give Up!
+- [X] Optimize & Solve Technique #2: DIY (Do It Yourself)
+- [X] Optimize & Solve Technique #3: Simplify and Generalize
+- [X] Optimize & Solve Technique #4: Base Case and Build
+- [X] Optimize & Solve Technique #5: Data Structure Brainstorm
+- [X] Best Conceivable Runtime (BCR)
+- [X] Handling Incorrect Answers
+- [X] When You’ve Heard a Question Before
+- [X] The “Perfect” Language for Interviews
+- [X] What Good Coding Looks Like
+- [X] Don’t Give Up!
 
 ## The Offer and Beyond
 
 Handling Offers and Rejection
 
-- [ ] Evaluating the Offer
-- [ ] Negotiation
-- [ ] On the Job
+- [X] Evaluating the Offer
+- [X] Negotiation
+- [X] On the Job
 
 ## 189 Programming Questions and Answers
 
