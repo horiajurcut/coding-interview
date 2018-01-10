@@ -36,4 +36,4 @@
   * [Abstract Data Types - ADT](https://www.lynda.com/Software-Development-tutorials/Understanding-abstract-data-types-ADTs/149042/177121-4.html)
 * Queues
   * [Queues FIFO](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html)
-  * [Priority Queues and Dequeues](https://www.lynda.com/Software-Development-tutorials/Priority-queues-dequeues/149042/177123-4.html)
+  * [Priority Queues and Deques](https://www.lynda.com/Software-Development-tutorials/Priority-queues-dequeues/149042/177123-4.html)
