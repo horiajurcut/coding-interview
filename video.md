@@ -41,3 +41,8 @@
   * [Circular Buffer](https://en.wikipedia.org/wiki/Circular_buffer)
 * Hash Tables
   * [Hashing with Chaining](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
+  * [Using Associative Arrays](https://www.lynda.com/Software-Development-tutorials/Using-associative-arrays/149042/177125-4.html)
+  * [Understanding Hash Functions](https://www.lynda.com/Software-Development-tutorials/Understanding-hash-functions/149042/177126-4.html)
+  * [Using Hash Tables](https://www.lynda.com/Software-Development-tutorials/Using-hash-tables/149042/177127-4.html)
+  * [Supporting Hashing](https://www.lynda.com/Software-Development-tutorials/Supporting-hashing/149042/177128-4.html)
+  * [Language Support for Hash Tables](https://www.lynda.com/Software-Development-tutorials/Language-support-hash-tables/149042/177129-4.html)
