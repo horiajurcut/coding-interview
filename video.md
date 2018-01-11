@@ -40,4 +40,4 @@
   * [Queue Implementations](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
   * [Circular Buffer](https://en.wikipedia.org/wiki/Circular_buffer)
 * Hash Tables
-  * [Hashing with Chaining](https://github.com/jwasham/coding-interview-university#hash-table)
+  * [Hashing with Chaining](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
