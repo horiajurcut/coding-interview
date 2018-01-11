@@ -39,3 +39,5 @@
   * [Priority Queues and Deques](https://www.lynda.com/Software-Development-tutorials/Priority-queues-dequeues/149042/177123-4.html)
   * [Queue Implementations](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
   * [Circular Buffer](https://en.wikipedia.org/wiki/Circular_buffer)
+* Hash Tables
+  * [Hashing with Chaining](https://github.com/jwasham/coding-interview-university#hash-table)
