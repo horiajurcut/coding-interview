@@ -1,5 +1,9 @@
 # Video Content
 
+## Algorithms 1
+
+* [Introduction](https://www.coursera.org/learn/algorithms-part1/lecture/buZPh/course-introduction)
+
 ## Data Structures
 
 * Big O
@@ -46,3 +50,5 @@
   * [Using Hash Tables](https://www.lynda.com/Software-Development-tutorials/Using-hash-tables/149042/177127-4.html)
   * [Supporting Hashing](https://www.lynda.com/Software-Development-tutorials/Supporting-hashing/149042/177128-4.html)
   * [Language Support for Hash Tables](https://www.lynda.com/Software-Development-tutorials/Language-support-hash-tables/149042/177129-4.html)
+  * [Hash Tables: Core Concepts](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/m7UuP/core-hash-tables)
+  * [Hash Tables: Collisions](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ozYZh/core-collisions-in-hash-tables)
