@@ -6,6 +6,8 @@
   * [Introduction](https://www.coursera.org/learn/algorithms-part1/supplement/icGHT/welcome-to-algorithms-part-i)
   * [Union Find](https://www.coursera.org/learn/algorithms-part1/supplement/aYr6R/overview)
   * [Analysis of Algorithms](https://www.coursera.org/learn/algorithms-part1/supplement/mpK20/lecture-slides)
+* Week 2
+  * [Stacks and Queues]()
 
 ## Data Structures
 
