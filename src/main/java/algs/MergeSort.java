@@ -46,6 +46,17 @@ public class MergeSort {
     merge(a, aux, low, mid, high);
   }
 
+  public static void iSort(Comparable[] a) {
+    int n = a.length;
+    Comparable[] aux = new Comparable[n];
+
+    for (int size = 1; size < n; size *= 2) {
+      for (int lo = 0; lo < n - size; lo += 2 * size) {
+        merge(a, aux, lo, lo + size - 1, Math.min(lo + 2 * size - 1, n - 1));
+      }
+    }
+  }
+
   public static void sort(Comparable[] a) {
     Comparable[] aux = new Comparable[a.length];
     sort(a, aux, 0, a.length - 1);
