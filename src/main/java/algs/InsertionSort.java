@@ -15,6 +15,18 @@ public class InsertionSort {
     }
   }
 
+  public static void sort(Comparable[] a, int low, int high) {
+    for (int i = low; i <= high; i++) {
+      for (int j = i; j > low; j--) {
+        if (less(a[j], a[j-1])) {
+          exchange(a, j, j - 1);
+        } else {
+          break;
+        }
+      }
+    }
+  }
+
   private static boolean less(Comparable x, Comparable y) {
     return x.compareTo(y) < 0;
   }
