@@ -7,7 +7,10 @@
   * [Union Find](https://www.coursera.org/learn/algorithms-part1/supplement/aYr6R/overview)
   * [Analysis of Algorithms](https://www.coursera.org/learn/algorithms-part1/supplement/mpK20/lecture-slides)
 * Week 2
-  * [Stacks and Queues]()
+  * [Stacks and Queues](https://www.coursera.org/learn/algorithms-part1/lecture/2Mbvz/stack-and-queue-applications-optional)
+  * [Elementary Sorts](https://www.coursera.org/learn/algorithms-part1/lecture/JHpgy/sorting-introduction)
+* Week 3
+  * [Mergesort](https://www.coursera.org/learn/algorithms-part1/lecture/pvvLZ/stability)
 
 ## Data Structures
 
