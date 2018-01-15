@@ -53,6 +53,8 @@
   * [Priority Queues and Deques](https://www.lynda.com/Software-Development-tutorials/Priority-queues-dequeues/149042/177123-4.html)
   * [Queue Implementations](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
   * [Circular Buffer](https://en.wikipedia.org/wiki/Circular_buffer)
+* Stacks and Queues
+  * [Basic Implementation - Hacker Rank](https://www.youtube.com/watch?v=7ArHz8jPglw&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt&index=31)
 * Hash Tables
   * [Hashing with Chaining](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
   * [Using Associative Arrays](https://www.lynda.com/Software-Development-tutorials/Using-associative-arrays/149042/177125-4.html)
