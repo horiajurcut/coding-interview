@@ -64,3 +64,6 @@
   * [Language Support for Hash Tables](https://www.lynda.com/Software-Development-tutorials/Language-support-hash-tables/149042/177129-4.html)
   * [Hash Tables: Core Concepts](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/m7UuP/core-hash-tables)
   * [Hash Tables: Collisions](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ozYZh/core-collisions-in-hash-tables)
+* Sorting
+  * [Bubble Sort](https://www.youtube.com/watch?v=6Gv8vg0kcHc&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt&index=19)
+  * [Merge Sort](https://www.youtube.com/watch?v=KF2j-9iSf4Q&index=20&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt)
