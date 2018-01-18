@@ -3,7 +3,7 @@
 ## Interview Preparation
 
 * How to Approach Problems
-  * https://www.youtube.com/watch?v=GKgAVjJxh9w&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt&index=1
+  * [7 Steps](https://www.youtube.com/watch?v=GKgAVjJxh9w&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt&index=1)
 
 ## Algorithms 1
 
