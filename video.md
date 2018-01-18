@@ -1,5 +1,10 @@
 # Video Content
 
+## Interview Preparation
+
+* How to Approach Problems
+  * https://www.youtube.com/watch?v=GKgAVjJxh9w&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt&index=1
+
 ## Algorithms 1
 
 * Week 1
@@ -67,3 +72,4 @@
 * Sorting
   * [Bubble Sort](https://www.youtube.com/watch?v=6Gv8vg0kcHc&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt&index=19)
   * [Merge Sort](https://www.youtube.com/watch?v=KF2j-9iSf4Q&index=20&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt)
+  * [Quicksort](https://www.youtube.com/watch?v=SLauY6PpjW4&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt&index=21)
