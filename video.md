@@ -16,6 +16,11 @@
   * [Elementary Sorts](https://www.coursera.org/learn/algorithms-part1/lecture/JHpgy/sorting-introduction)
 * Week 3
   * [Mergesort](https://www.coursera.org/learn/algorithms-part1/lecture/pvvLZ/stability)
+  * [Quicksort](https://www.coursera.org/learn/algorithms-part1/lecture/QBNZ7/system-sorts)
+* Week 4
+  * [Priority Queues](https://www.coursera.org/learn/algorithms-part1/lecture/QVhGs/event-driven-simulation-optional)
+  * [Elementary Symbol Tables](https://www.coursera.org/learn/algorithms-part1/lecture/PWZAr/deletion-in-bsts)
+* Week 5
 
 ## Data Structures
 
