@@ -31,6 +31,14 @@ public class BinarySearchTree<Key extends Comparable<Key>, Value> {
     return search.count;
   }
 
+  public int size(Key low, Key high) {
+    if (get(high) != null) {
+      return rank(high) - rank(low) + 1;
+    } else {
+      return rank(high) - rank(low);
+    }
+  }
+
   public int rank(Key key) {
     return rank(root, key);
   }
