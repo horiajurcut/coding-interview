@@ -21,6 +21,19 @@
   * [Priority Queues](https://www.coursera.org/learn/algorithms-part1/lecture/QVhGs/event-driven-simulation-optional)
   * [Elementary Symbol Tables](https://www.coursera.org/learn/algorithms-part1/lecture/PWZAr/deletion-in-bsts)
 * Week 5
+  * [Balanced Search Trees](https://www.coursera.org/learn/algorithms-part1/supplement/r7HMi/overview)
+  * [Geometric Applications of BSTs](https://www.coursera.org/learn/algorithms-part1/supplement/yelcJ/lecture-slides)
+* Week 6
+  * [Hash Tables](https://www.coursera.org/learn/algorithms-part1/supplement/iHcBs/overview)
+  * [Symbol Table Applications](https://www.coursera.org/learn/algorithms-part1/supplement/eVEjz/lecture-slides)
+  
+## Algorithms 2
+* Week 1
+  * [Undirected Graphs](https://www.coursera.org/learn/algorithms-part2/supplement/AIwuz/overview)
+  * [Directed Graphs](https://www.coursera.org/learn/algorithms-part2/supplement/qRjk3/lecture-slides)
+* Week 2
+  * [Minimum Spanning Trees](https://www.coursera.org/learn/algorithms-part2/supplement/a4C9S/overview)
+  * [Shortest Paths](https://www.coursera.org/learn/algorithms-part2/supplement/BZTAt/lecture-slides)
 
 ## Data Structures
 
