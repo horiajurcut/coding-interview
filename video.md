@@ -34,6 +34,19 @@
 * Week 2
   * [Minimum Spanning Trees](https://www.coursera.org/learn/algorithms-part2/supplement/a4C9S/overview)
   * [Shortest Paths](https://www.coursera.org/learn/algorithms-part2/supplement/BZTAt/lecture-slides)
+* Week 3
+  * [Maximum Flow and Minimum Cut](https://www.coursera.org/learn/algorithms-part2/lecture/HR7SA/maxflow-applications)
+  * [Radix Sorts](https://www.coursera.org/learn/algorithms-part2/lecture/vGHvb/strings-in-java)
+* Week 4
+  * [Tries](https://www.coursera.org/learn/algorithms-part2/supplement/jJOgu/overview)
+  * [Substring Search](https://www.coursera.org/learn/algorithms-part2/supplement/CrTCF/lecture-slides)
+* Week 5
+  * [Regular Expressions](https://www.coursera.org/learn/algorithms-part2/supplement/qXXaB/overview)
+  * [Data Compression](https://www.coursera.org/learn/algorithms-part2/supplement/gRhgE/lecture-slides)
+* Week 6
+  * [Reductions](https://www.coursera.org/learn/algorithms-part2/supplement/BpY4w/overview)
+  * [Linear Programming](https://www.coursera.org/learn/algorithms-part2/supplement/9wPqe/lecture-slides)
+  * [Intractability](https://www.coursera.org/learn/algorithms-part2/supplement/Nc2PX/lecture-slides)
 
 ## Data Structures
 
