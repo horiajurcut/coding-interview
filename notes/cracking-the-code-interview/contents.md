@@ -31,3 +31,6 @@ PDFs, articles, academic references related to data structures and algorithms
 ### Technical Questions
 
 * [Summary](TechnicalQuestions.pdf)
+
+### Programming Questions
+* [Arrays and Strings](Arrays&Strings.pdf)
