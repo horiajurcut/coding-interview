@@ -97,7 +97,7 @@ Handling Offers and Rejection
 This section forms the bulk of the book. Each section opens with a discussion of the core knowledge and strategies to tackle this type of question, diving into exactly how you break down and solve it. Topics covered include: 
 
 - [X] Arrays and Strings
-- [ ] Linked Lists
+- [X] Linked Lists
 - [ ] Stacks and Queues
 - [ ] Trees and Graphs
 - [ ] Bit Manipulation
