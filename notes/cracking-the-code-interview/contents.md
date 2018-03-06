@@ -35,3 +35,4 @@ PDFs, articles, academic references related to data structures and algorithms
 ### Programming Questions
 * [Arrays and Strings](Arrays&Strings.pdf)
 * [Linked Lists](LinkedLists.pdf)
+* [Stacks and Queue](Stacks&Queues.pdf)

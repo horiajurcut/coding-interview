@@ -98,7 +98,7 @@ This section forms the bulk of the book. Each section opens with a discussion of
 
 - [X] Arrays and Strings
 - [X] Linked Lists
-- [ ] Stacks and Queues
+- [X] Stacks and Queues
 - [ ] Trees and Graphs
 - [ ] Bit Manipulation
 - [ ] Math and Logic Puzzles
