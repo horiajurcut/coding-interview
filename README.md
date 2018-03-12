@@ -1,5 +1,5 @@
 # Coding University
-A enciclopedia of resources related to the study of computer science
+A enciclopedia of resources related to the study of Computer Science
 
 ## Notes
 * [Princeton Algorithms I & II](notes/princeton-algorithms/)
