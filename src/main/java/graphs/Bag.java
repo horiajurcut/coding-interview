@@ -47,7 +47,7 @@ public class Bag<Item> implements Iterable<Item> {
     }
 
     public boolean hasNext() {
-      return current.next != null;
+      return current != null;
     }
 
     public void remove() {
