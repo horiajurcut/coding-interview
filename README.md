@@ -1,5 +1,12 @@
-# coding-interview
-Cracking the coding interview
+# Coding University
+A enciclopedia of resources related to the study of Computer Science
+
+## Notes
+* [Princeton Algorithms I & II](notes/princeton-algorithms/)
+* [Cracking The Coding Interview](notes/cracking-the-code-interview/)
+* [Videos](video.md)
+
+# Cracking The Coding Interview
 
 ## The Interview Process
 
