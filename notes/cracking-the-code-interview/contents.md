@@ -37,3 +37,4 @@ PDFs, articles, academic references related to data structures and algorithms
 * [Linked Lists](LinkedLists.pdf)
 * [Stacks and Queue](Stacks&Queues.pdf)
 * [Trees and Graphs](Trees&Graphs.pdf)
+* [Bit Manipulation](BitManipulation.pdf)
