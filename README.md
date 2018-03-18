@@ -108,7 +108,7 @@ This section forms the bulk of the book. Each section opens with a discussion of
 - [X] Stacks and Queues
 - [X] Trees and Graphs
 - [X] Bit Manipulation
-- [ ] Math and Logic Puzzles
+- [X] Math and Logic Puzzles
 - [ ] Object-Oriented Design
 - [ ] Recursion and Dynamic Programming
 - [ ] Sorting and Searching

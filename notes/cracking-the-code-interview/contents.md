@@ -38,3 +38,4 @@ PDFs, articles, academic references related to data structures and algorithms
 * [Stacks and Queue](Stacks&Queues.pdf)
 * [Trees and Graphs](Trees&Graphs.pdf)
 * [Bit Manipulation](BitManipulation.pdf)
+* [Math & Logic Puzzles](Math&LogicPuzzles.pdf)
