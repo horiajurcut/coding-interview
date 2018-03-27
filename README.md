@@ -110,7 +110,7 @@ This section forms the bulk of the book. Each section opens with a discussion of
 - [X] Bit Manipulation
 - [X] Math and Logic Puzzles
 - [X] Object-Oriented Design
-- [ ] Recursion and Dynamic Programming
+- [X] Recursion and Dynamic Programming
 - [ ] Sorting and Searching
 - [ ] Scalability and Memory Limits
 - [ ] Testing

@@ -40,3 +40,4 @@ PDFs, articles, academic references related to data structures and algorithms
 * [Bit Manipulation](BitManipulation.pdf)
 * [Math & Logic Puzzles](Math&LogicPuzzles.pdf)
 * [Object-Oriented Design](ObjectOrientedDesign.pdf)
+* [Recursion & Dynamic Programming](RecursionAndDynamicProgramming.pdf)
