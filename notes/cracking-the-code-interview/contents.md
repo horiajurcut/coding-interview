@@ -41,3 +41,4 @@ PDFs, articles, academic references related to data structures and algorithms
 * [Math & Logic Puzzles](Math&LogicPuzzles.pdf)
 * [Object-Oriented Design](ObjectOrientedDesign.pdf)
 * [Recursion & Dynamic Programming](RecursionAndDynamicProgramming.pdf)
+* [System Design and Scalability](SystemDesignScalability.pdf)
