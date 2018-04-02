@@ -111,7 +111,7 @@ This section forms the bulk of the book. Each section opens with a discussion of
 - [X] Math and Logic Puzzles
 - [X] Object-Oriented Design
 - [X] Recursion and Dynamic Programming
-- [ ] Sorting and Searching
+- [X] Sorting and Searching
 - [X] Scalability and Memory Limits
 - [ ] Testing
 - [ ] C and C++
