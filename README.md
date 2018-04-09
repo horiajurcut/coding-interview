@@ -113,9 +113,9 @@ This section forms the bulk of the book. Each section opens with a discussion of
 - [X] Recursion and Dynamic Programming
 - [X] Sorting and Searching
 - [X] Scalability and Memory Limits
-- [ ] Testing
+- [X] Testing
 - [ ] C and C++
-- [ ] Java
+- [X] Java
 - [ ] Databases
 - [ ] Threads and Locks
 - [ ] Assorted Moderate Problems

@@ -43,3 +43,6 @@ PDFs, articles, academic references related to data structures and algorithms
 * [Recursion & Dynamic Programming](RecursionAndDynamicProgramming.pdf)
 * [System Design and Scalability](SystemDesignScalability.pdf)
 * [Sorting & Searching](Sorting&Searching.pdf)
+* [Testing](Testing.pdf)
+* [Java](Java.pdf)
+
