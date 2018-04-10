@@ -45,4 +45,5 @@ PDFs, articles, academic references related to data structures and algorithms
 * [Sorting & Searching](Sorting&Searching.pdf)
 * [Testing](Testing.pdf)
 * [Java](Java.pdf)
+* [Databases](Databases.pdf)
 

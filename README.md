@@ -116,7 +116,7 @@ This section forms the bulk of the book. Each section opens with a discussion of
 - [X] Testing
 - [ ] C and C++
 - [X] Java
-- [ ] Databases
+- [X] Databases
 - [ ] Threads and Locks
 - [ ] Assorted Moderate Problems
 - [ ] Assorted Hard Problems
