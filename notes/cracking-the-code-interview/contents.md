@@ -46,4 +46,5 @@ PDFs, articles, academic references related to data structures and algorithms
 * [Testing](Testing.pdf)
 * [Java](Java.pdf)
 * [Databases](Databases.pdf)
+* [Threads & Locks](Threads&Locks.pdf)
 
